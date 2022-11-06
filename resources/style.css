@@ -25,6 +25,10 @@
     padding-left: 0%;
 }
 
+.logo img{
+    width: 30%;
+}
+
 
 .navbar{
     display: flex;
