@@ -37,8 +37,9 @@
     box-sizing: border-box;
     margin-left: 60%;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 13px;
+    margin-bottom: 10px;
 }
 
 #navbar{
